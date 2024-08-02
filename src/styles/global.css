@@ -16,18 +16,18 @@ body {
 
 @media (min-width: 320px) {
   html {
-    font-size: 32.5%; /*  1 rem = 10 px */
+    font-size: 32.5%;
   }
 }
 
 @media (min-width: 480px) {
   html {
-    font-size: 42.5%; /*  1 rem = 10 px */
+    font-size: 42.5%;
   }
 }
 
 @media (min-width: 641px) {
   html {
-    font-size: 50.5%; /*  1 rem = 10 px */
+    font-size: 50.5%;
   }
 }
