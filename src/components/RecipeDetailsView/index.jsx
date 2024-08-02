@@ -5,8 +5,6 @@ import defaultImage from "../../assets/images/biryani.jpg"
 
 const RecipeDetailsView = memo(() => {
   const selectedRecipe = useRecipeDetailsView()
-  console.info({ selectedRecipe })
-
   const Img = useMemo(() => {
     let imagePath
     const imgName = selectedRecipe?.image
