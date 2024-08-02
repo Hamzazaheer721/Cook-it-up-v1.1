@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "key": "pizza",
+    "recipeName": "Pizza",
+    "author": "Jim",
+    "image": "pizza",
+    "ingredients": "Yeast, Flour, Cheese, Salt, Warm Water, Sugar, Chicken, Sauces",
+    "description": "Let me share my top choices for pizza pans just in case you’re shopping for a new one. I use and love (affiliate links) this one and this one. If you like baking your homemade pizzas on pizza stones, I’ve used this one before and it’s wonderful. \n\n\n If you don’t have a pizza pan, use a regular sheet pan. Grease it with olive oil and sprinkle with cornmeal as directed below, and then press the dough into whatever shape that will fit. Make sure the dough is about 1/2-inch thick. For a thinner pizza, stretch the dough out more.Prepare the dough through step 3 below, but allow the dough to rise for 8-12 hours in the refrigerator. (If it needs to be in the refrigerator for longer, use cooler water in the dough which will slow the dough’s rise and allow for more time.) As a bonus, the slow rise gives the pizza dough wonderful flavor! When ready, continue with step 5 in the recipe below (the shaping step). If the dough didn’t quite double in size when rising, let it sit at room temperature for 30-45 minutes before shaping."
+  },
+
+  {
+    "id": "2",
+    "key": "burger",
+    "recipeName": "Burger",
+    "author": "Aravind",
+    "image": "burger",
+    "ingredients": "Bread, Chicken, Lattice, Ketchup, Oil",
+    "description": "Nothing says summer quite like a juicy grilled burger. You'll find the full recipe below with step-by-step instructions, but here's what you can expect when you make these top-rated burger patties: Begin by whisking the egg, salt, and pepper together in a large bowl. Then, add the ground beef and bread crumbs before forming the mixture into ¾-inch patties. Place the patties on a preheated grill and cook for six to eight minutes per side. Make sure the beef's temperature reads at least 160 degrees F before serving, and you're ready to go. Top with classic condiments like mustard, ketchup, and mayo for full-fledged flavor."
+  },
+  {
+    "id": "3",
+    "key": "biryani",
+    "recipeName": "Biryani",
+    "author": "Kiyani",
+    "image": "biryani",
+    "ingredients": "Spices, Rice, Chicken or Meat, Salt, Clove, Olive",
+    "description": "To make a delightful chicken biryani dish, firstly soak saffron in water to prepare saffron water (one tsp saffron can be soaked in 1/4 cup water). Next, mix kewra drops in water and mix well to make kewra water. Set them aside for later usage. Now, chop the onion and coriander leaves and keep them aside.\n Meanwhile, heat olive oil in a deep bottomed pan. Once the oil is hot enough, add cumin seeds, bay leaf, green cardamom, black cardamom, cloves in it, and saute for about a minute. Then, add chopped onion to it and saute until pink. Now, add chicken into it with slit green chillies, turmeric, salt to taste, ginger-garlic paste, red chilli powder and green chilli paste. Mix well all the spices and cook for 2-3 minutes. Then, add hung curd into it and give a mix. (Make sure the chicken is washed properly and patted dry before adding it to the dish).\n\n\n Serve hot chicken biryani with your favourite chutney or raita Cook for 15-20 minutes with a closed lid and garnish with 1 tbsp fried onions and coriander leaves. Serve hot chicken biryani with raita of your choice. Enjoy!"
+  },
+  {
+    "id": "4",
+    "key": "lasagna",
+    "recipeName": "Lasagna",
+    "author": "James",
+    "image": "lasagna",
+    "ingredients": "Tomato Sauce, Ground beef, Mozarella-ricotta cheese mixture",
+    "description": "Lasagna is the perfect meal, and of all of the recipes I’ve tried over the years, this is the perfect lasagna. We loved it so much, we even turned it into Lasagna Roll Ups. It’s flavorful and satisfying, but also easy to make. It’s delicious as-is, but you can make it your own by swapping in your favorite ingredients. In our house, lasagna is a staple for busy school nights because it keeps, reheats, and freezes so well and it’s nice to have something in the fridge to enjoy throughout the week. I even use it for kids’ lunches—I pack a serving in my son’s thermos to keep it hot and that thermos comes home empty every time."
+  },
+  {
+    "id": "5",
+    "key": "prawn-noodles",
+    "recipeName": "Prawn Noodles",
+    "author": "Chris",
+    "image": "prawn-noodles",
+    "ingredients": "Prawn, Noodes, Spices, Sauces, Vegetables",
+    "description": "The combination of chilli, garlic, ginger and soy sauce is a staple in Chinese cooking and for this spicy prawn noodle stir fry, these flavours marry well with the delicate taste of king prawns alongside the vibrant green crunch of tender stem broccoli. The whole point of prawn noodles is that they are really quick and easy and this dish is no exception. All you have to do is cook the noodles and make sure they have some time to dry out – they don’t stir fry well when they are still wet from cooking. And throw all the ingredients together into hot vegetable oil that has been heated in a large wok. Keep stirring for a minute before adding the noodles and soy sauce. And that’s it. "
+  },
+  {
+    "id": "6",
+    "key": "sausage",
+    "recipeName": "Sausage",
+    "author": "Steve",
+    "image": "sausage",
+    "ingredients": "Salt, Chicken, Beef, Pork, Poultry, Seasoning spices",
+    "description": "Homemade sausages are part of a salami-maker’s repertoire; you can’t make salami if you can’t first make fresh sausages. Below are an eclectic list of homemade sausage recipes made with both wild game and domestic meats, mostly lamb and pork in that case.\nWhy make your own sausages? Control.\nYou can add or subtract anything you’d like, adjust how coarse or fine the sausage is, make them skinny or fat, long or short, spicy or sweet. A well-made sausage is a symphony in a link, needing nothing more than a simple accompaniment to play harmony."
+  },
+  {
+    "id": "7",
+    "key": "tikka",
+    "recipeName": "Tikka",
+    "author": "Kevin",
+    "image": "tikka",
+    "ingredients": "Spices, Meat, Yogurt, Vinegar, Lemon",
+    "description": "One chicken will give you 4 Tikka cut pieces, 2 thighs and 2 breast pieces. If you are making more than 1 chicken, just double the recipe and you’ll be good to go. Use a good knife and add some cuts to your chicken along the length so that it has deep areas for the marinate to work in. Go ahead and rub the marinate all over the chicken. Give it a good little massage like the one you would want in a spa. (ugh desperately need a spa day too). Make sure you cover all the nooks and crannies. Once you are done, cover up the chicken with foil or cling wrap or a box lid and keep it in the fridge to marinate. Well, a minimum of 4 hrs is needed for all the spices to rub in really well. If you are using boneless chicken, you can go ahead and cook it immediately but for chicken with bone, I would recommend a minimum of 4 hrs to an overnight marination duration. The reason is, that this gives vinegar enough time to react with the chicken and tenderize it. It also makes the top layer of the chicken tough so all the juices are sealed inside the chicken piece that gives you a lovely tender Chicken tikka once its cooked."
+  }
+]

@@ -1,0 +1,68 @@
+.details_container {
+  background-color: #e4e4e4;
+  flex: 1 0 70%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.default_container {
+  display: grid;
+  place-items: center;
+  font-size: 2.6rem;
+  height: 100%;
+  color: #6e6e6e;
+}
+
+.card_container {
+  display: flex;
+  padding: 2rem 4.4rem;
+  flex-direction: column;
+  gap: 2rem;
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.heading {
+  font-size: 2.6rem;
+  font-weight: 600;
+  color: #548798;
+}
+
+.recipe_img {
+  display: flex;
+  margin: 0 auto;
+  min-width: 60%;
+  width: 100%;
+  max-width: 80%;
+  max-height: 20rem;
+  border-radius: 6px;
+  height: auto;
+  object-fit: cover;
+}
+
+.mini_details_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.secondary_heading {
+  font-size: 2rem;
+  color: #548798;
+}
+
+.details_section {
+  display: flex;
+  gap: 1rem;
+  color: #636363;
+  font-size: 1.6rem;
+}
+
+.description {
+  font-size: 1.4rem;
+  color: #636363;
+  font-weight: 400;
+  width: 80%;
+}

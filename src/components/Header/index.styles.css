@@ -1,0 +1,10 @@
+.header {
+  position: sticky;
+  width: 100%;
+  overflow: hidden;
+  padding: 2rem;
+  font-size: 2rem;
+  background-color: #121e31;
+  color: #ffffff;
+  text-align: center;
+}

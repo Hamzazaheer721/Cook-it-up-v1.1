@@ -1,0 +1,31 @@
+.list_container {
+  background-color: white;
+  flex: 1 0 30%;
+
+  box-shadow: 0px -0.43px 14.06px rgba(0, 0, 0, 0.0417),
+    0px 17.5743px 14.0595px rgba(0, 0, 0, 0.0417275),
+    0px 9.85203px 7.88162px rgba(0, 0, 0, 0.035),
+    0px 5.23234px 4.18587px rgba(0, 0, 0, 0.0282725);
+}
+
+.list {
+  width: 100%;
+}
+
+.list_item {
+  color: #548798;
+  font-size: 2.6rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list_item:hover {
+  background-color: #548798;
+  color: white;
+  transition: 0.4s all ease;
+}
+
+.active {
+  background-color: #548798;
+  color: white;
+}
