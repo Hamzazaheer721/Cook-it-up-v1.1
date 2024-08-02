@@ -13,3 +13,21 @@ html {
 body {
   font-family: sans-serif;
 }
+
+@media (min-width: 320px) {
+  html {
+    font-size: 32.5%; /*  1 rem = 10 px */
+  }
+}
+
+@media (min-width: 480px) {
+  html {
+    font-size: 42.5%; /*  1 rem = 10 px */
+  }
+}
+
+@media (min-width: 641px) {
+  html {
+    font-size: 50.5%; /*  1 rem = 10 px */
+  }
+}
