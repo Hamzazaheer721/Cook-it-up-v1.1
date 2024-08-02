@@ -1,17 +1,8 @@
 import React, { createContext, useReducer } from "react"
+import { initialContextState, SELECT_ITEM } from "../general/utils"
+import { reducer } from "./helper"
 
-const initialState = { selectedItemKey: null }
-
-const SELECT_ITEM = "SELECT_ITEM"
-
-const reducer = (state, action) => {
-  switch (action.type) {
-    case SELECT_ITEM:
-      return { ...state, selectedItemKey: action.payload }
-    default:
-      return state
-  }
-}
+export const initialState = initialContextState
 
 export const SelectedItemContext = createContext()
 
